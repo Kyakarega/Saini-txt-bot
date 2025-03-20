@@ -12,17 +12,17 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Enter Your Api Id",
+            "description": "29520886",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "Enter Your Api Hash",
+            "description": "4e58d1ebff0c578501780e5032fb2f0d",
             "value": "",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Enter Your Telegram Bot Token",
+            "description": "7271777034:AAGlrooGgMBCYEj2Dv1Cv26F81bmCaxEEas",
             "value": "",
             "required": true
         },
